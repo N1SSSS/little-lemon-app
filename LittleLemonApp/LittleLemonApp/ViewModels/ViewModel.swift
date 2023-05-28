@@ -2,7 +2,7 @@
 //  viewModel.swift
 //  LittleLemonApp
 //
-//  Created by Jevgeni Vakker on 25.03.2023.
+//  Created by Nikita Salikhov on 22.05.2023.
 //
 
 import Foundation
